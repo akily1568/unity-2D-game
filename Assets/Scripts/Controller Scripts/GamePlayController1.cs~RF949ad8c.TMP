@@ -1,0 +1,21 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class GamePlayController1 : MonoBehaviour
+{
+    [SerializeField]
+    private GameObject pausePanel;
+
+    public void PauseGameButton()
+    {
+        pausePanel.SetActive(true);
+        Time.timeScale = 0f;
+    }
+
+    public void ResumeButton()
+    {
+        pausePanel.SetActive(false);
+        Time.timeScale = 1f;
+    }
+}

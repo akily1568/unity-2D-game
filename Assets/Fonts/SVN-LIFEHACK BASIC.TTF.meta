@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 90a5fb43c40d12e4dbee9ed4fee3d774
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SVN-Lifehack
+  fontNames:
+  - SVN-Lifehack
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 21a717c2f06e5a64697499587d902df5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
